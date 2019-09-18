@@ -140,7 +140,7 @@ public class archivoServidor {
         mostrarTexto("Puerto:  ");
         String puerto = sc.nextLine();
         if (puerto.length() <= 0) {
-            puerto = "5050";
+            puerto = "4000";
         }
 
 
