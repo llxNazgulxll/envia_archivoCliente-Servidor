@@ -141,7 +141,7 @@ public class archivoCliente {
         mostrarTexto("Puerto:  ");
         String puerto = escaner.nextLine();
         if (puerto.length() <= 0) {
-            puerto = "5050";
+            puerto = "4000";
         }
 
 
